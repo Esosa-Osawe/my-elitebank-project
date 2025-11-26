@@ -1,23 +1,9 @@
 
 # Elite Bank Employee Demographics & Salary Analysis
+This project analyzes **Elite Bank’s employee demographics and salary structure** using quantitative methods to support fair and effective HR decisions. It explores how demographic and compensation insights can guide better **recruitment**, **promotion**, and **workforce planning**.
 
-## Table of Contents
-
- - [Project Overview](project-overview)
- - [Data Sources](data-sources)
- - [Objectives](objectives)
- - [Tools and Technologies](tools-and-technologies)
- - [Repository Contents](repository-contents)
- - [Exploratory Data Analysis](exploratory-data-analysis)
- - [Key Insights](key-insights)
- - [Recommendations](recommedations)
- - [How to Run the Script](how-to-run-the-script)
- - [Contributing](contributing)
- - [Contact](contact)
-   
 **Project Overview**
 
-This project analyzes **Elite Bank’s employee demographics and salary structure** using quantitative methods to support fair and effective HR decisions. It explores how demographic and compensation insights can guide better **recruitment**, **promotion**, and **workforce planning**.
 Organizations depend on accurate HR data to ensure fairness and equity in staffing decisions. This project provides a structured analysis of employee attributes such as:
 
 * Age distribution
