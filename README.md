@@ -75,7 +75,7 @@ In the initial data preparation phase, the following tasks were performed:
    
 6. Do male and female employees earn significantly different salaries?
 
-   <img width="1102" height="360" alt="final 6" src="https://github.com/user-attachments/assets/c7872348-4031-485b-a1f2-80b1e9285461" />
+  <img width="1102" height="360" alt="final 6" src="https://github.com/user-attachments/assets/c7872348-4031-485b-a1f2-80b1e9285461" />
 
 7. Is there a significant difference in average salary across departments?
    
@@ -126,3 +126,6 @@ Contributions, suggestions, and improvements are welcome.
 **Contact**
 
 If you have questions or feedback, feel free to reach out via GitHub.
+
+😄
+💻
