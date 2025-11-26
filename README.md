@@ -14,7 +14,7 @@
  - [How to Run the Script](how-to-run-the-script)
  - [Contributing](contributing)
  - [Contact](contact)
- - 
+   
 **Project Overview**
 
 This project analyzes **Elite Bank’s employee demographics and salary structure** using quantitative methods to support fair and effective HR decisions. It explores how demographic and compensation insights can guide better **recruitment**, **promotion**, and **workforce planning**.
@@ -114,4 +114,3 @@ Contributions, suggestions, and improvements are welcome.
 **Contact**
 
 If you have questions or feedback, feel free to reach out via GitHub.
-
