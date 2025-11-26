@@ -51,14 +51,40 @@ The primary dataset used for this analysis is the "elitebank_db.csv"which contai
 In the initial data preparation phase, the following tasks were performed:
 
 1. Which department pays the highest average salary?
+
+
+   <img width="700" height="360" alt="final 1" src="https://github.com/user-attachments/assets/39559dc1-989f-48df-a653-e87c464b2c28" />
+
 2. What’s the age distribution of employees?
+
+   <img width="700" height="360" alt="final 2" src="https://github.com/user-attachments/assets/1a191de0-9bb8-4c86-aaa7-22dcb0d861d5" />
+
 3. Are widowed employees more common in certain departments?
+
+   <img width="700" height="360" alt="final 3" src="https://github.com/user-attachments/assets/8c405d83-1806-4913-97be-b6b9180133cf" />
+
 4. Does higher education translate to higher pay?
+
+<img width="700" height="360" alt="final 4" src="https://github.com/user-attachments/assets/50725e46-84af-4498-aec2-55296f7b97b4" />
+
+   
 5. Which state contributes the most employees?
+
+<img width="700" height="360" alt="final 5" src="https://github.com/user-attachments/assets/8c14eb36-7211-46d7-a37e-a915efd9d5ee" />
+
+   
 6. Do male and female employees earn significantly different salaries?
+
+   <img width="1102" height="360" alt="final 6" src="https://github.com/user-attachments/assets/c7872348-4031-485b-a1f2-80b1e9285461" />
+
 7. Is there a significant difference in average salary across departments?
+   
+<img width="1102" height="360" alt="final 7" src="https://github.com/user-attachments/assets/28269c8d-3f6a-4bb3-8aa7-8f0ffc8aaffe" />
+
+   
 8. Is there a relationship between marital status and department allocation?
 
+<img width="1087" height="360" alt="final 8" src="https://github.com/user-attachments/assets/86bed4be-fa7a-4d9a-9cb0-a328f1d7b6af" />
 
  **Key Insights**
 
